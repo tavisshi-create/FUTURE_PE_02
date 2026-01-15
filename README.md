@@ -17,8 +17,8 @@ This project involved designing and deploying a fully functional, responsive por
 - **Project Showcase:** Integrated assets from Task 1 (Thumbnail & Video) into a dedicated portfolio section.
 
 ## 🔗 Deliverables
-- **Live Website:** [PASTE_YOUR_LOVABLE_URL_HERE]
-- **Walkthrough Video:** [PASTE_YOUR_LOOM_LINK_HERE]
+- **Live Website:** https://tavisshi-data-bloom.lovable.app/
+- **Walkthrough Video:** https://drive.google.com/file/d/1A8ZLhlz6cIFgEmUy6KBDvKKzSmOlsa6_/view?usp=drive_link
 
 ## 🧠 What I Learned
 - How to use "Prompt Chaining" to iterate on web design elements.
