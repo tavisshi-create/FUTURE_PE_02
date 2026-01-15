@@ -19,6 +19,7 @@ This project involved designing and deploying a fully functional, responsive por
 ## 🔗 Deliverables
 - **Live Website:** https://tavisshi-data-bloom.lovable.app/
 - **Walkthrough Video:** https://drive.google.com/file/d/1A8ZLhlz6cIFgEmUy6KBDvKKzSmOlsa6_/view?usp=drive_link
+-**Documentaion**:https://www.notion.so/Task-2-AI-Powered-Portfolio-Website-2e94a7959db6807fa81bfec45f21ddfa?source=copy_link
 
 ## 🧠 What I Learned
 - How to use "Prompt Chaining" to iterate on web design elements.
